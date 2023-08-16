@@ -204,3 +204,5 @@ The models used in FaceChain:
 # License
 
 This project is licensed under the [Apache License (Version 2.0)](https://github.com/modelscope/modelscope/blob/master/LICENSE).
+
+[install](#installation)
